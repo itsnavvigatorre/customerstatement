@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+   
+   customerstatement:
+      image: kundus/customerstatement:0.0.1-SNAPSHOT
+      networks:
+         - customerstatement-network
+      ports:
+         - 8080:8080
+      
+networks:
+   customerstatement-network:

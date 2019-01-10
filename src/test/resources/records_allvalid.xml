@@ -1,0 +1,16 @@
+<records>
+  <record reference="182911">
+    <accountNumber>NL74ABNA0248990274</accountNumber>
+    <description>Subscription for Erik de Vries</description>
+    <startBalance>16.46</startBalance>
+    <mutation>-11.43</mutation>
+    <endBalance>5.03</endBalance>
+  </record>
+  <record reference="128102">
+    <accountNumber>NL32RABO0195610843</accountNumber>
+    <description>Candy from Richard Dekker</description>
+    <startBalance>21.32</startBalance>
+    <mutation>+6.38</mutation>
+    <endBalance>27.7</endBalance>
+  </record>
+</records>

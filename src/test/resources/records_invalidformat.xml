@@ -1,0 +1,16 @@
+<records>
+  <record
+    <accountNumber>NL74ABNA0248990274</accountNumber>
+    <description>Subscription for Erik de Vries</description>
+    16.46</startBalance>
+    <mutation>-11.43</mutation>
+    <endBalance>5.03</endBalance>
+  </record>
+  <record
+    <accountNumber>NL56RABO0149876948</accountNumber>
+    <description>Subscription from Daniël King</description>
+    <startBalance>5429</startBalance>
+    <mutation>-939</mutation>
+    <endBalance>6368</endBalance>
+  </record>
+</records>
